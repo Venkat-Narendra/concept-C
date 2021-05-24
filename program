@@ -1,7 +1,6 @@
 main()
 {
   int i,j, sum;
-  i=5 , j=6
   printf("The sumk of 2 no is : %d", sum)
   getch();
 }  
