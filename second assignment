@@ -1,6 +1,6 @@
 main()
 {
 // Write C code here 
-int i-10; //integer
+int i-15; //integer
 printf("The vale of i=%d", i);
 }
